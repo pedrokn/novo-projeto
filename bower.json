@@ -1,0 +1,21 @@
+{
+  "name": "projeto-html-1",
+  "homepage": "https://github.com/pedrokn/novo-projeto",
+  "authors": [
+    "Pedro Paulo <pedropaulocarvalhocv@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
